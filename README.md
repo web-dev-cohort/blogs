@@ -7,3 +7,4 @@
 - <https://git-ashish-sinha.hashnode.space/default-guide/beginners-guide-to-git-concepts-commands-and-workflow>
 - <https://find-tcp.hashnode.dev/find-tcp>
 - <https://find-inside-git.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder>
+- <https://find-how-browser-works.hashnode.dev/how-a-browser-works-a-beginnerfriendly-guide-to-browser-internals>
