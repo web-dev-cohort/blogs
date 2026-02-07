@@ -9,3 +9,4 @@
 - <https://find-inside-git.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder>
 - <https://find-how-browser-works.hashnode.dev/how-a-browser-works-a-beginnerfriendly-guide-to-browser-internals>
 - <https://know-html-tags-and-elements.hashnode.dev/understanding-html-tags-and-elements-a-beginnerfriendly-guide>
+- <https://know-why-version-control-exists.hashnode.dev/why-version-control-exists-the-pendrive-problem>
