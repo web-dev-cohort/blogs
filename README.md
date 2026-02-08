@@ -11,3 +11,4 @@
 - <https://know-html-tags-and-elements.hashnode.dev/understanding-html-tags-and-elements-a-beginnerfriendly-guide>
 - <https://know-why-version-control-exists.hashnode.dev/why-version-control-exists-the-pendrive-problem>
 - <https://know-css-selectors.hashnode.dev/css-selectors-101-targeting-elements-with-precision>
+- <https://know-emmet-for-html.hashnode.dev/emmet-for-html-a-beginners-guide-to-writing-faster-markup>
