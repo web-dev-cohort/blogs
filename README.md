@@ -1,4 +1,4 @@
-# Blogs
+# Hashnode Blogs Links
 
 - <https://where-a-website-lives.hashnode.dev/how-does-a-browser-know-where-a-website-lives>
 - <https://ashishsinha.hashnode.dev/getting-started-with-curl-a-beginnerfriendly-guide>
