@@ -12,3 +12,4 @@
 - <https://know-why-version-control-exists.hashnode.dev/why-version-control-exists-the-pendrive-problem>
 - <https://know-css-selectors.hashnode.dev/css-selectors-101-targeting-elements-with-precision>
 - <https://know-emmet-for-html.hashnode.dev/emmet-for-html-a-beginners-guide-to-writing-faster-markup>
+- <https://devices-communication-on-network.hashnode.dev/understanding-network-devices-a-beginners-guide-to-how-the-internet-actually-works>
