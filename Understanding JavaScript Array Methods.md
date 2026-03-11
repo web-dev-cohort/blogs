@@ -1,3 +1,5 @@
+# Understanding JavaScript Array Methods: A Beginner‑Friendly Guide to push, pop, map, filter, reduce, and more
+
 Arrays sit at the heart of most JavaScript programs. Whether you're handling user input, rendering UI lists, or processing API data, you’ll constantly work with arrays. Modern JavaScript gives you expressive, readable methods that make array manipulation far easier than writing manual loops.
 
 This guide walks through the essential array methods—`push`, `pop`, `shift`, `unshift`, `map`, `filter`, `reduce`, and `forEach`—with simple examples, before/after visuals, and intuitive diagrams to help you understand how each method works.
