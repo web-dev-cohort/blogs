@@ -1,3 +1,4 @@
+# What Arrow Functions Are
 Arrow functions are a concise syntax for writing functions introduced in ES6. They let you write the same logic with fewer characters and a more readable structure.
 
 A normal function:
