@@ -16,3 +16,4 @@
 - <https://promise-in-javascript.hashnode.dev/javascript-promises-explained-through-married-life>
 - <https://beautyofjavascript.hashnode.dev/understanding-javascript-array-methods-a-beginner-friendly-guide-to-push-pop-map-filter-reduce-and-more>
 - <https://beautyofjavascript.hashnode.dev/what-arrow-functions-are>
+- <https://beautyofjavascript.hashnode.dev/understanding-variables-and-data-types-in-javascript>
