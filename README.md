@@ -15,3 +15,4 @@
 - <https://devices-communication-on-network.hashnode.dev/understanding-network-devices-a-beginners-guide-to-how-the-internet-actually-works>
 - <https://promise-in-javascript.hashnode.dev/javascript-promises-explained-through-married-life>
 - <https://beautyofjavascript.hashnode.dev/understanding-javascript-array-methods-a-beginner-friendly-guide-to-push-pop-map-filter-reduce-and-more>
+- <https://beautyofjavascript.hashnode.dev/what-arrow-functions-are>
