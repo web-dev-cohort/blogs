@@ -17,3 +17,4 @@
 - <https://beautyofjavascript.hashnode.dev/understanding-javascript-array-methods-a-beginner-friendly-guide-to-push-pop-map-filter-reduce-and-more>
 - <https://beautyofjavascript.hashnode.dev/what-arrow-functions-are>
 - <https://beautyofjavascript.hashnode.dev/understanding-variables-and-data-types-in-javascript>
+- <https://beautyofjavascript.hashnode.dev/control-flow-in-javascript-if-else-and-switch-explained>
