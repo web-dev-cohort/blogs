@@ -18,3 +18,4 @@
 - <https://beautyofjavascript.hashnode.dev/what-arrow-functions-are>
 - <https://beautyofjavascript.hashnode.dev/understanding-variables-and-data-types-in-javascript>
 - <https://beautyofjavascript.hashnode.dev/control-flow-in-javascript-if-else-and-switch-explained>
+- <https://beautyofjavascript.hashnode.dev/understanding-objects-in-javascript>
