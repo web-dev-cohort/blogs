@@ -19,3 +19,4 @@
 - <https://beautyofjavascript.hashnode.dev/understanding-variables-and-data-types-in-javascript>
 - <https://beautyofjavascript.hashnode.dev/control-flow-in-javascript-if-else-and-switch-explained>
 - <https://beautyofjavascript.hashnode.dev/understanding-objects-in-javascript>
+- <https://beautyofjavascript.hashnode.dev/understanding-object-oriented-programming-in-javascript>
