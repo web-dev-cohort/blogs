@@ -23,3 +23,4 @@
 - <https://beautyofjavascript.hashnode.dev/javascript-arrays>
 - <https://beautyofjavascript.hashnode.dev/function-declaration-vs-function-expression-what-s-the-difference>
 - <https://beautyofjavascript.hashnode.dev/the-magic-of-this-call-apply-and-bind-in-javascript>
+- <https://beautyofjavascript.hashnode.dev/javascript-operators>
