@@ -21,3 +21,4 @@
 - <https://beautyofjavascript.hashnode.dev/understanding-objects-in-javascript>
 - <https://beautyofjavascript.hashnode.dev/understanding-object-oriented-programming-in-javascript>
 - <https://beautyofjavascript.hashnode.dev/javascript-arrays>
+- <https://beautyofjavascript.hashnode.dev/function-declaration-vs-function-expression-what-s-the-difference>
